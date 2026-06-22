@@ -1,6 +1,6 @@
 # BÁO CÁO BÀI TẬP LỚN: KIỂM THỬ TỰ ĐỘNG VỚI SELENIUM IDE
 
-- **Học phần:** Kiểm thử Phần mềm
+- **Học phần:** Đánh giá và kiểm định chất lượng phần mềm
 - **Giảng viên hướng dẫn:** Trịnh Thanh Bình
 - **Sinh viên thực hiện:** Nguyễn Mạnh Hòa
 - **Mã sinh viên:** 23010254
